@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nền chính -->
+    <color name="bg_primary">#0D1117</color>
+    <color name="bg_card">#161B22</color>
+    <color name="bg_input">#0D1117</color>
+
+    <!-- Viền -->
+    <color name="border">#21262D</color>
+
+    <!-- Chữ -->
+    <color name="text_primary">#E6EDF3</color>
+    <color name="text_secondary">#7D8590</color>
+
+    <!-- Nhấn mạnh -->
+    <color name="accent">#00D4AA</color>
+    <color name="accent_dim">#0D2D26</color>
+
+    <!-- Messenger -->
+    <color name="messenger">#0084FF</color>
+
+    <!-- Trạng thái -->
+    <color name="danger">#F85149</color>
+    <color name="warning">#D29922</color>
+    <color name="success">#3FB950</color>
+
+    <!-- Khác -->
+    <color name="white">#FFFFFF</color>
+
+    <!-- Toggle track -->
+    <color name="toggle_track">#30363D</color>
+
+    <!-- Bottom nav -->
+    <color name="bottom_nav_color">#7D8590</color>
+</resources>
