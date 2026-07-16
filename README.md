@@ -10,14 +10,15 @@ Một ứng dụng Android tự động trả lời tin nhắn, được phát t
 - 📜 Lịch sử tin nhắn đã trả lời
 - 🔔 Hỗ trợ thông báo
 
-## Tài nguyên (Assets)
+## Giao diện (UI)
 
 ![Home Screen](app/src/main/java/com/autoreply/messenger/assets/home.png)
 
 ![History Screen](app/src/main/java/com/autoreply/messenger/assets/history.png)
 
 ![Setting Screen](app/src/main/java/com/autoreply/messenger/assets/setting_1.png)
-[](app/src/main/java/com/autoreply/messenger/assets/setting_2.png)
+
+![Setting_Screen](app/src/main/java/com/autoreply/messenger/assets/setting_2.png)
 
 ## Yêu cầu hệ thống
 
